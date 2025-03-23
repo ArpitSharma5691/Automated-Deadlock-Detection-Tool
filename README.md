@@ -23,6 +23,7 @@ Features:
 - Database Logging to record detected deadlocks.
 
 Installation & Setup
+
 1.Clone the Repository:
 
 git clone https://github.com/yourusername/automated-deadlock.git
